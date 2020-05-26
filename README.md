@@ -1,6 +1,6 @@
 # doo-tech-website-clone
 
-> A Vue.js project
+> A very basic project that utilized SwiperJS and Vue Router.
 
 ## Build Setup
 
